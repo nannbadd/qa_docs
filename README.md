@@ -1,2 +1,2 @@
 # qa_docs
-Repository to store QA documentation, test cases, test design examples and other materials demonstrating QA skills for portfolio purposes, showcasing quality assurance expertise.
+This repository contains my QA practice and portfolio projects, including test designs, bug reports and crowdtesting experience.
