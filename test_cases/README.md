@@ -18,3 +18,4 @@ Each test case includes (where applicable):
 - Some applications used are demo environments, therefore expected results may
   describe logical or expected behavior rather than actual system behavior.
 - Related test design documents can be found in the **test-design** folder.
+- Related bug report documents can be found in the **bug-reports** folder.
