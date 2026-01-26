@@ -1,3 +1,4 @@
+# Test cases
 This folder contains functional test cases created based on:
 - product requirements
 - application behavior
