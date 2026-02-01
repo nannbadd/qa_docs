@@ -25,6 +25,5 @@ The project focused on functional and UI testing of a web application.
 
 ## Key Skills Demonstrated
 - Writing clear bug reports
-- Understanding expected vs actual behavior
 - Exploratory testing without test cases
 - Working with real production requirements
